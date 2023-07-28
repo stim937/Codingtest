@@ -8,7 +8,6 @@ class Solution {
                 answer = answer + Character.toLowerCase(my_string.charAt(i));
             }
         }
-        
         return answer;
     }
 }
