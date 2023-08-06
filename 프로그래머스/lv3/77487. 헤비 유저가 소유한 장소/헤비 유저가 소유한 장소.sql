@@ -8,3 +8,4 @@ WHERE HOST_ID IN (
     HAVING COUNT(*) > 1
 )
 ORDER BY ID;
+
